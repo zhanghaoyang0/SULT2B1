@@ -15,5 +15,5 @@ They are:
 [rs4149455](https://www.ebi.ac.uk/gwas/variants/rs4149455) for low-density lipoprotein levels.  
 
 
-Not direct association between atherosclerosis and SULT2B1 SNPs was reported.  
-But SULT2B1 rs12460535, rs114518757, and rs4149455 are associated with blood protein biomarker related with atherosclerosis. 
+Not direct association between cardiovascular diseasec and SULT2B1 SNPs was reported.  
+But SULT2B1 rs12460535, rs114518757, and rs4149455 are associated with blood protein biomarker related with cardiovascular disease. 
