@@ -12,7 +12,7 @@ They are:
 [rs182199585](https://www.ebi.ac.uk/gwas/variants/rs182199585) for	juvenile dermatomyositis.  
 [rs12460535](https://www.ebi.ac.uk/gwas/variants/rs12460535) for low density lipoprotein cholesterol measurement.  
 [rs114518757](https://www.ebi.ac.uk/gwas/variants/rs114518757) for blood protein levels.  
-[rs4149455](https://www.ebi.ac.uk/gwas/variants/rs4149455), for low-density lipoprotein levels (MTAG).  
+[rs4149455](https://www.ebi.ac.uk/gwas/variants/rs4149455) for low-density lipoprotein levels.  
 
 
 Not direct association between atherosclerosis and SULT2B1 SNPs was reported.  
